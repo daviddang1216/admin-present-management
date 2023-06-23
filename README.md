@@ -4,8 +4,8 @@
 This is a user-friendly platform that provides a centralized hub for organizing, managing, and tracking presents for children on special occasions such as birthdays, holidays, and other milestones. It offers a range of features and functionalities that make the process hassle-free for parents, caregivers, and even event organizers.
 
 This is the user front-end service for the application, while others can be found at:
-- User front-end service: [https://github.com/thekingincatsle/user-present-management](https://github.com/thekingincatsle/user-present-app)
-- Back-end service: https://github.com/thekingincatsle/pricing-management-be
+- User front-end service: [https://github.com/daviddang1216/user-present-management](https://github.com/daviddang1216/user-present-app)
+- Back-end service: https://github.com/daviddang1216/pricing-management-be
 
 ## Tech-stack used in this project
 ReactJs, TailwindCss.
